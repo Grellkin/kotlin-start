@@ -10,7 +10,7 @@
 ######################
 # Intellij
 ######################
-**/.idea
+/.idea
 *.iml
 *.iws
 *.ipr
@@ -63,12 +63,3 @@ logs/*
 *.*~
 *~
 .merge_file*
-
-######################
-# Maven Wrapper
-######################
-!.mvn/wrapper/maven-wrapper.jar
-
-# e2e
-/e2e/*.js
-/e2e/*.map
